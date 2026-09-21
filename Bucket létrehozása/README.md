@@ -18,5 +18,3 @@ Ezután a létrehozott bucket-ba feltöltöttem egy teljesen random képet `Jack
 
 <img width="1278" height="747" alt="Képernyőfotó 2026-09-21 - 13 57 35" src="https://github.com/user-attachments/assets/cfe138f3-0b77-4e8c-b18d-6ec7568714f4" />
 
-
-<img width="1470" height="956" alt="Képernyőfotó 2026-09-21 - 13 57 23" src="https://github.com/user-attachments/assets/04f52d81-b98d-4dc1-9974-c7b56b496274" />
