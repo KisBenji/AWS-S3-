@@ -15,7 +15,7 @@ A létrehozott bucket-ba feltöltünk egy dokumentumot
 
 <img width="1273" height="737" alt="Képernyőfotó 2026-09-21 - 14 00 59" src="https://github.com/user-attachments/assets/a189ad4d-57fc-4d5b-8791-9a7f886d0928" />
 
-A `Properties` kattintva láthatjuk az fáljhoz tartozó URL-t 
+A `Properties` kattintva láthatjuk a fáljhoz tartozó URL-t 
 
 <img width="1362" height="653" alt="Képernyőfotó 2026-09-21 - 14 01 16" src="https://github.com/user-attachments/assets/70db4036-a68e-4e59-a75c-e19ce6498768" />
 
