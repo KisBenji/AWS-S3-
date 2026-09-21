@@ -4,7 +4,7 @@ AWS S3 (Simple Storage Service) egy felhőalapú objektumtároló szolgáltatás
 
 ### Tartalom 
 ---
-1. [S3 - Bucket létrehozása - alap]
+1. [S3 - Bucket létrehozása - alap](<./ >)
 3. [S3 - Bucket létrehozása - fájl feltöltése]
 4. [S3 - Verziózás]
 5. [S3 - Statikus weboldal]
