@@ -41,3 +41,14 @@ A létrehozott Bucket-ba feltöltöttem újból egy képet:
 
 <img width="1272" height="750" alt="Képernyőfotó 2026-09-21 - 14 07 26" src="https://github.com/user-attachments/assets/9b720b14-43ca-416e-ae62-b41cea464f6f" />
 
+Az objektum URL-re kattintva ellenőrizzük, hogy elérhető-e. 
+
+<img width="1179" height="586" alt="Képernyőfotó 2026-09-21 - 14 07 33" src="https://github.com/user-attachments/assets/5aeed61f-6050-4387-8934-86544a96d4c2" />
+
+Szintén megtagadja a hozzáférést, hiszen az alap beállításokat használtuk ebben az esetben is.
+
+<img width="951" height="159" alt="Képernyőfotó 2026-09-21 - 14 07 40" src="https://github.com/user-attachments/assets/db6ea7a9-20a2-4abe-b0e8-cbe2c25f736f" />
+
+További fájlokat töltöttem fel ebbe a Bucket-ba is. 
+
+<img width="1461" height="640" alt="Képernyőfotó 2026-09-21 - 14 08 53" src="https://github.com/user-attachments/assets/69afd613-3953-4d61-8af7-334dcde24931" />
