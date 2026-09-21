@@ -22,3 +22,9 @@ Ezután feltöltöttem egy `s3-index.html` és `s3-error.html` fájl-t a Bucket-
 Ezután elérhetővé `Enable` Static website hosting lehetőséget és megadjuk a korábban feltölött fájlok nevét.
 
 <img width="1255" height="750" alt="Képernyőfotó 2026-09-21 - 14 28 59" src="https://github.com/user-attachments/assets/7264d8d4-4e93-4fb4-8cd3-f01c7d9976f6" />
+
+Ha kész a konfigurálás `Bucket website endpoint URL`-t megnyitva a következő oldal fog megjelenni, ha mindent jól adtunk meg:
+
+<img width="1444" height="674" alt="Képernyőfotó 2026-09-21 - 16 04 19" src="https://github.com/user-attachments/assets/253de5c3-4963-4c02-9025-d175c4d80000" />
+
+
