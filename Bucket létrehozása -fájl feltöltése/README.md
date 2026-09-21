@@ -1,4 +1,5 @@
-Bucket létrehozása - fájl feltöltése
+# Bucket létrehozása - fájl feltöltése 
+### Globálisan egyedi névvel
 
 A korábbiakhoz hasonlóan a console felületén az S3-ra kattintva - `Create bucket` elkezdjük konfigurálni. 
 
@@ -21,3 +22,22 @@ A `Properties` kattintva láthatjuk az fáljhoz tartozó URL-t
 Rákattintva a következő kép fog megjelenni, ami teljesen normális, hiszen nem engedélyeztük a publikus hozzáférést. 
 
 <img width="916" height="201" alt="Képernyőfotó 2026-09-21 - 14 01 24" src="https://github.com/user-attachments/assets/fa599d70-4909-45ae-979d-ff31ef269f2e" />
+
+### Account szinten egyedi névvel
+
+Az első lépések megegyeznek S3 - `Create bucket` és megkezdjük a konfigurációt.
+
+Ennél a pélánál egyedi azonosítót választunk, amelyet az AWS account egyedi adatait és a régiót is tartalmazza.
+
+<mark>s3-alapok-2<mark>
+
+<img width="1149" height="670" alt="Képernyőfotó 2026-09-21 - 14 06 03" src="https://github.com/user-attachments/assets/06b20d26-c5bb-4b7b-b4c1-88e6a8c64e41" />
+
+A többi beállítást default hagyjuk, ami azt jelenti továbbra is korlátozzuk a publikus hozzáférést.
+
+<img width="1417" height="415" alt="Képernyőfotó 2026-09-21 - 14 06 52" src="https://github.com/user-attachments/assets/14b83f4c-312f-4254-9dd0-92626332ad78" />
+
+A létrehozott Bucket-ba feltöltöttem újból egy képet:
+
+<img width="1272" height="750" alt="Képernyőfotó 2026-09-21 - 14 07 26" src="https://github.com/user-attachments/assets/9b720b14-43ca-416e-ae62-b41cea464f6f" />
+
