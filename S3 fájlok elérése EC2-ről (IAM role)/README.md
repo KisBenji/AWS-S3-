@@ -19,11 +19,11 @@ A CLI felületre belépve a következő kép fogad minket:
 
 <img width="1200" height="318" alt="Képernyőfotó 2026-09-30 - 14 03 48" src="https://github.com/user-attachments/assets/bf3b5d92-ae32-4ec2-b5d5-e562055916ec" />
 
-A következő paranccsal: aws s3 ls s3://s3-alapok-4-599633425313-eu-north-1-an listázni kívánjuk a korábbi s3 bucketet amibe a statikus weboldalunkat helyeztük. 
+A következő paranccsal: `aws s3 ls s3://s3-alapok-4-599633425313-eu-north-1-an` listázni kívánjuk a korábbi s3 bucketet amibe a statikus weboldalunkat helyeztük. 
 
 Az eredmény: `Unable to locate credentials`
 
 <img width="1199" height="336" alt="Képernyőfotó 2026-09-30 - 14 04 55" src="https://github.com/user-attachments/assets/a46c7088-40de-40a3-a812-d7da7a7b946e" />
 
-Nincs jogosultságunk és elutasítja a rendszer a kérést. 
+Nincs jogosultságunk és elutasítja a rendszer a kérést, mert nem tudja kik vagyunk, nem vagyunk bejelentkezve. 
 
