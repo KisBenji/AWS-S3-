@@ -11,3 +11,7 @@ Az IAM management felületére belépve a Create Role gombra kattintva elkezdhet
 A legördülő oszlopból tudjuk kiválasztani milyen szerepkört engedélyezünk. Itt az s3 read only, tehát csak olvasást engedélyező role-t kiválasztjuk. 
 
 <img width="1390" height="517" alt="Képernyőfotó 2026-09-30 - 14 16 12" src="https://github.com/user-attachments/assets/7b87b60f-6d9d-4360-ab67-7fc638d80700" />
+
+Ezután elnevezzük a szerepet: <mark>csakolvashato</mark> 
+
+<img width="1389" height="414" alt="Képernyőfotó 2026-09-30 - 14 16 40" src="https://github.com/user-attachments/assets/ddc66428-4809-42b3-9659-01d8541d225d" />
