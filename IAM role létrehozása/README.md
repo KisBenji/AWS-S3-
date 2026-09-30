@@ -4,6 +4,10 @@
 
 ## Csak olvasási jogosultság létrehozása
 
-Az IAM management felületére belépve a Create Role gombra kattintva elkezdhetjük konfigurálni a szerepkört. 
+Az IAM management felületére belépve a Create Role gombra kattintva elkezdhetjük konfigurálni a szerepkört. EC2-t választjuk, hiszen majd hozzá fogjuk rendelni a role-t.
 
 <img width="1381" height="762" alt="Képernyőfotó 2026-09-30 - 14 15 33" src="https://github.com/user-attachments/assets/44f2731f-d528-4b17-98b2-38bbaf93413e" /> 
+
+A legördülő oszlopból tudjuk kiválasztani milyen szerepkört engedélyezünk. Itt az s3 read only, tehát csak olvasást engedélyező role-t kiválasztjuk. 
+
+<img width="1390" height="517" alt="Képernyőfotó 2026-09-30 - 14 16 12" src="https://github.com/user-attachments/assets/7b87b60f-6d9d-4360-ab67-7fc638d80700" />
