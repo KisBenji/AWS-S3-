@@ -10,4 +10,4 @@ AWS S3 **(Simple Storage Service)** egy felhőalapú objektumtároló szolgálta
 5. [S3 - Statikus weboldal](<./S3 statikus weboldal/README.md>)
 6. [S3 fájlok elérése EC2-ről](<./S3 fájlok elérése EC2-ről (IAM role)/README.md>)
 7. [IAM role létrehozása](<./S3 fájlok elérése EC2-ről (IAM role)/README.md>)
-8. [Cloudfront létrehozása](<./IAM role létrehozása/README.md>)
+8. [Cloudfront létrehozása](<./Cloudfront létrehozása egy meglévő S3 bucket fölé/README.md>)
