@@ -1,4 +1,4 @@
-# A tartalmunk már a bucketben van így könnyedén a console segítségével létre tudunk hozni egy distribution-t.
+# A korábbi bucketet használnva a console segítségével létrehozunk egy distribution-t.
 
 Keresőbe beírjuk a Cloudfront alkalmazás nevét és belépve a `Create distribution` indításával megkezdjük a konfigurálást
 
