@@ -38,7 +38,11 @@ A `Distribution domain name` használva látni fogjuk ha a böngészőben megnyi
 Előfordulhat, hogy a frissítések nem azonnal jelennek meg a CloudFront linkjén keresztül. Ilyenkor a cache ürítése szükséges. 
 
 A cache ürítést az AWS CLI-ól végezzük el a statikus weboldalak fájljaira.
-Ehhez ki kellett az EC2 role-t egészíteni a Cloudfront teljes hozzáféréssel és így engedte meg törölni:
+Ehhez ki kellett az EC2 role-t egészíteni a Cloudfront teljes hozzáféréssel:
+
+<img width="1057" height="261" alt="Képernyőfotó 2026-09-30 - 18 53 11" src="https://github.com/user-attachments/assets/b892b906-a5bd-4cdb-868d-7441a64d3c4f" />
+
+Így engedte a checheket törölni:
 
 <img width="1184" height="601" alt="Képernyőfotó 2026-09-30 - 16 11 16" src="https://github.com/user-attachments/assets/b883c09a-14ef-4ea6-8172-8b0d80d834fc" />
 
