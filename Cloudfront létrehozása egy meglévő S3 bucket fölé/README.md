@@ -18,5 +18,16 @@ Hozzárendeljük a mi saját statikus weboldalunkat tartalmazó S3 bucketet:
 
 Ha a public website hosting engedélyezve van a bucketen, a CloudFront a kéri hogy annak az URL-jét (Static endpoint) használd: "This S3 bucket has static web hosting enabled. If you plan to use this distribution as a website, we recommend using the S3 website endpoint rather than the bucket endpoint." 
 
-<img width="1389" height="714" alt="Képernyőfotó 2026-09-30 - 15 37 10" src="https://github.com/user-attachments/assets/99c71eea-1065-4660-a872-7f2f056043e3" />
+<img width="1133" height="295" alt="Képernyőfotó 2026-09-30 - 15 37 54" src="https://github.com/user-attachments/assets/19385f72-faf9-4411-9bfe-72ab2bf6e4b5" />
 
+A Web Application Firewall (WAF) tűzfal beállításokat most nem használjuk mivel fizetős lenne.
+
+<img width="1386" height="338" alt="Képernyőfotó 2026-09-30 - 15 38 10" src="https://github.com/user-attachments/assets/0fe838ec-3b81-485c-904a-1d34f4b33c56" />
+
+Létrejött a distribution!
+
+<img width="1380" height="214" alt="Képernyőfotó 2026-09-30 - 15 45 23" src="https://github.com/user-attachments/assets/2ee2c458-b441-4f11-b576-b4db1b81b9e4" />
+
+A Distribution domain name használva látni fogjuk ha a böngészőben megnyitjuk, hogy már a Cloudfront-t használja az oldal megnyitásához.
+
+<img width="1244" height="356" alt="Képernyőfotó 2026-09-30 - 15 46 30" src="https://github.com/user-attachments/assets/69cb0518-89c5-4d94-bbb1-e804f2f1e88e" />
