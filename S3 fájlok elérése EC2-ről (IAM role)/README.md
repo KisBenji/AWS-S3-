@@ -61,11 +61,16 @@ Kérés megtagadva, nem sikerült. Az ok nincs jogosultságunk csak olvasási, �
 
 # Teljes hozzáférés az EC2-nek az S3-hoz. 
 
-Az előzőekben leírtak szerint módosítjuk az EC2 role-t de most a teljes hozzáférést választjuk ki és őjra csatlakozunk hozzá. 
+Az előzőekben leírtak szerint módosítjuk az EC2 role-t de most a teljes hozzáférést választjuk ki és újra csatlakozunk hozzá. 
 
 <img width="1380" height="403" alt="Képernyőfotó 2026-09-30 - 15 19 07" src="https://github.com/user-attachments/assets/389c493f-9ed8-4431-80b8-608a6ce1fcca" />
 
+A csatlakozás után újra megpróbáljuk feltölteni a s3-index.html fájlt: 
+aws s3 cp s3-index.html s3://s3-alapok-4-599633425313-eu-north-1-an/s3-index.html/s3-index.html/s3-index.html
 
+<img width="1266" height="329" alt="Képernyőfotó 2026-09-30 - 15 20 45" src="https://github.com/user-attachments/assets/a06d37d9-6f9d-4fd0-8cfa-900d3531d5ac" />
+
+A teljes hozzáféréssel már sikerült a parancsot végrehajtani. 
 
 
 
