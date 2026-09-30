@@ -1,4 +1,4 @@
-# Role létrehozásához a Identity and Access Management (IAM) felületen
+# Role létrehozása a Identity and Access Management (IAM) felületen
 
 <img width="1092" height="237" alt="Képernyőfotó 2026-09-30 - 14 14 37" src="https://github.com/user-attachments/assets/d0ef18ca-cbf4-4f9c-ba4d-4f1dc4e59073" />
 
@@ -6,3 +6,4 @@
 
 Az IAM management felületére belépve a Create Role gombra kattintva elkezdhetjük konfigurálni a szerepkört. 
 
+<img width="1381" height="762" alt="Képernyőfotó 2026-09-30 - 14 15 33" src="https://github.com/user-attachments/assets/44f2731f-d528-4b17-98b2-38bbaf93413e" /> 
