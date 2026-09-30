@@ -1,5 +1,5 @@
-## S3 fájlok elérése EC2-ről
-# A cél az, hogy ne access key-t használjunk, hanem IAM role-t adjunk a gépnek. 
+# S3 fájlok elérése EC2-ről
+## A cél az, hogy ne access key-t használjunk, hanem IAM role-t adjunk a gépnek. 
 
 Első lépésként egy teljesen alap beállításokkal rendelkező Amazon Linux 2023 EC2-t indítottam. 
 
