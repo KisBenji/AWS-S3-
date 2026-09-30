@@ -10,7 +10,8 @@ Elnevezzük ami a példa kedvéért: <mark>s3-distribution</mark>
 
 Az origin esetén kiválasztjuk az S3-t
 
-<img width="1389" height="714" alt="Képernyőfotó 2026-09-30 - 15 37 10" src="https://github.com/user-attachments/assets/c7d4d9e3-0be6-4cbc-8715-df2744a31ab6" />
+<img width="1386" height="421" alt="Képernyőfotó 2026-09-30 - 15 51 18" src="https://github.com/user-attachments/assets/8d10fe2a-a2ef-46c2-9762-7f32e430b436" />
+
 
 Hozzárendeljük a mi saját statikus weboldalunkat tartalmazó S3 bucketet:
 
