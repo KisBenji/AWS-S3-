@@ -22,5 +22,14 @@ A Create Role gombra kattintva létre is jön a role, amit most már hozzá rend
 
 A felületen a korábbi lépéseket használva konfigurálunk egy másik role-t is, aminek a teljes hozzáférést engedélyezzük.
 
+Név: <mark>teljeshozzaferes</mark>
+
 <img width="1083" height="511" alt="Képernyőfotó 2026-09-30 - 14 17 22" src="https://github.com/user-attachments/assets/45700e27-c434-40f9-880d-ced082f93749" />
+
+A dashboardon meg is jelenik mind a kettő role, ami már használatra kész.
+
+<img width="933" height="477" alt="Képernyőfotó 2026-09-30 - 14 17 53" src="https://github.com/user-attachments/assets/1f1d4f9e-fbd7-4ede-a4de-4dd816ef5f43" />
+
+
+
 
