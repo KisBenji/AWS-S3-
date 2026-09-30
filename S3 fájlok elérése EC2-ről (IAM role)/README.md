@@ -27,7 +27,7 @@ Az eredmény: `Unable to locate credentials`
 
 Nincs jogosultságunk és elutasítja a rendszer a kérést, mert nem tudja kik vagyunk, nem vagyunk bejelentkezve. 
 
-Ahhoz, hogy tudjuk az EC2 példányunkkal hozzáférni az S3 bucket-hez, létre kell hoznunk IAM role-t. Ennek bemutatása ezen a linken érhető el: [IAM role létrehozása](<./AWS-S3-/IAM role létrehozása/README.md>)
+Ahhoz, hogy tudjuk az EC2 példányunkkal hozzáférni az S3 bucket-hez, létre kell hoznunk IAM role-t. Ennek bemutatása ezen a linken érhető el: [IAM role létrehozása](<./IAM role létrehozása/README.md>)
 
 # Csak olvasási role hozzárendelése az EC2-hez.
 
