@@ -8,3 +8,4 @@ AWS S3 **(Simple Storage Service)** egy felhőalapú objektumtároló szolgálta
 3. [S3 - Bucket létrehozása - fájl feltöltése](<./Bucket létrehozása -fájl feltöltése/README.md>)
 4. [S3 - Verziózás](<./S3 Verziózás/README.md>)
 5. [S3 - Statikus weboldal](<./S3 statikus weboldal/README.md>)
+6. [S3 fájlok elérése EC2-ről](<./S3 statikus weboldal/README.md>)
