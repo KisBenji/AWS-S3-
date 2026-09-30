@@ -4,7 +4,7 @@ AWS S3 **(Simple Storage Service)** egy felhőalapú objektumtároló szolgálta
 
 Az alap S3 bucket létrehozása és a fájl feltöltések, statikus weboldal elhelyezése után bővítjük a lehetőségeket és különböző módon érjük el EC2 példányról és végül Cloudfront használatával a CDN gyakorlását is bemutatom, hogy a statikus weboldalunk elérhetőségének késleltetését csökkentsük.
 
-### Tartalom 
+### Tartalom
 ---
 1. [S3 - Bucket létrehozása - alap](<./Bucket létrehozása/README.md>)
 3. [S3 - Bucket létrehozása - fájl feltöltése](<./Bucket létrehozása -fájl feltöltése/README.md>)
