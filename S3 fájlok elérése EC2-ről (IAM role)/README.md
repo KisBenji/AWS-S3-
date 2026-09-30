@@ -31,5 +31,43 @@ Ahhoz, hogy tudjuk az EC2 példányunkkal hozzáférni az S3 bucket-hez, létre 
 
 # Csak olvasási role hozzárendelése az EC2-hez.
 
+EC2 instancehoz hozzárendeljük a role-t. 
+
+<img width="1152" height="337" alt="Képernyőfotó 2026-09-30 - 14 39 17" src="https://github.com/user-attachments/assets/84850e7a-3ad2-4b69-b0f2-fe6cfdb5b7dc" />
+
+A listából kiválasztjuk a `csakolvashato` első körben. 
+
+<img width="1369" height="426" alt="Képernyőfotó 2026-09-30 - 14 39 56" src="https://github.com/user-attachments/assets/b39b7bfb-279b-43af-843d-36f11f07ebd7" />
+
+Ha mentettük a beállításokat csatlakozunk az EC2-hez, a korábban leírtak szerint. 
+
+<img width="1379" height="705" alt="Képernyőfotó 2026-09-30 - 14 40 25" src="https://github.com/user-attachments/assets/e9706f1f-d7e5-4caf-8f50-74ae92d33971" />
+
+Először listázzuk a bucket tartalmát: aws s3 ls s3://s3-alapok-4-599633425313-eu-north-1-an 
+
+<img width="1186" height="394" alt="Képernyőfotó 2026-09-30 - 14 41 28" src="https://github.com/user-attachments/assets/0ef19006-7649-4586-90e2-882128e3bb30" />
+
+Letöltjük az s3-index.html fájlt a következő kéréssel: aws s3 cp s3://s3-alapok-4-599633425313-eu-north-1-an/s3-index.html .
+cat s3-index.html
+
+<img width="1205" height="680" alt="Képernyőfotó 2026-09-30 - 14 44 26" src="https://github.com/user-attachments/assets/59f9209f-0496-4a4f-bf2d-283fd392d037" />
+
+Módosítást végzek el az s3-index.html fájlban és megpróbáljuk visszatölteni a következő utasítással:
+aws s3 cp s3-index.html s3://s3-alapok-4-599633425313-eu-north-1-an/s3-index.html/s3-index.html
+
+<img width="1385" height="137" alt="Képernyőfotó 2026-09-30 - 15 07 18" src="https://github.com/user-attachments/assets/d74997a3-e31d-4be5-a1f6-a0cd09a409bb" />
+
+Kérés megtagadva, nem sikerült. Az ok nincs jogosultságunk csak olvasási, így nem engedi a feltöltést. 
+
+# Teljes hozzáférés az EC2-nek az S3-hoz. 
+
+Az előzőekben leírtak szerint módosítjuk az EC2 role-t de most a teljes hozzáférést választjuk ki és őjra csatlakozunk hozzá. 
+
+<img width="1380" height="403" alt="Képernyőfotó 2026-09-30 - 15 19 07" src="https://github.com/user-attachments/assets/389c493f-9ed8-4431-80b8-608a6ce1fcca" />
+
+
+
+
+
 
 
