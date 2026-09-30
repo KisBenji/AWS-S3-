@@ -77,6 +77,11 @@ Az S3 bucketre kattintva láthatjuk is a feltöltött index.html-t.
 
 <img width="1352" height="442" alt="Képernyőfotó 2026-09-30 - 15 23 25" src="https://github.com/user-attachments/assets/6608c332-946f-4e2b-a893-d31fac052da6" />
 
+A módosított index.html fájl már megjelenik ha a böngészőben megnyitjuk.  
+
+<img width="1078" height="302" alt="Képernyőfotó 2026-09-30 - 18 42 13" src="https://github.com/user-attachments/assets/b2e8f4e4-2fe4-4266-a8ed-4d2dc7550dd3" />
+
+
 
 
 
