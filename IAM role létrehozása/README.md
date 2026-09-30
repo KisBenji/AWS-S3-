@@ -18,4 +18,9 @@ Ezután elnevezzük a szerepet: <mark>csakolvashato</mark>
 
 A Create Role gombra kattintva létre is jön a role, amit most már hozzá rendelhetünk az EC2 példányhoz. 
 
-![Uploading Képernyőfotó 2026-09-30 - 14.17.22.png…]()
+## Teljes hozzáférési jogosultság létrehozása
+
+A felületen a korábbi lépéseket használva konfigurálunk egy másik role-t is, aminek a teljes hozzáférést engedélyezzük.
+
+<img width="1083" height="511" alt="Képernyőfotó 2026-09-30 - 14 17 22" src="https://github.com/user-attachments/assets/45700e27-c434-40f9-880d-ced082f93749" />
+
