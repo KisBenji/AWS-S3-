@@ -15,3 +15,7 @@ A legördülő oszlopból tudjuk kiválasztani milyen szerepkört engedélyezün
 Ezután elnevezzük a szerepet: <mark>csakolvashato</mark> 
 
 <img width="1389" height="414" alt="Képernyőfotó 2026-09-30 - 14 16 40" src="https://github.com/user-attachments/assets/ddc66428-4809-42b3-9659-01d8541d225d" />
+
+A Create Role gombra kattintva létre is jön a role, amit most már hozzá rendelhetünk az EC2 példányhoz. 
+
+![Uploading Képernyőfotó 2026-09-30 - 14.17.22.png…]()
